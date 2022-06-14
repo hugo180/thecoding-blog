@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "author": "tester",
+    "body": "testing",
+    "avatarUrl": "https://cdn-icons-png.flaticon.com/512/147/147144.png"
+  },
+  {
+    "id": 2,
+    "author": "testing",
+    "body": "I wanna know what love is...",
+    "avatarUrl": "https://cdn-icons-png.flaticon.com/512/147/147144.png"
+  },
+  {
+    "id": 3,
+    "author": "hello",
+    "body": "Great picture!",
+    "avatarUrl": "https://cdn-icons-png.flaticon.com/512/147/147144.png"
+  }
+]

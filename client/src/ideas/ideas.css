@@ -1,0 +1,55 @@
+.project__img {
+        object-fit: cover;
+        width: 100%;
+     }
+
+
+
+p{
+    align-items: center;
+    background-image: linear-gradient(#003459,#00a7e1);
+  width: 70%;
+  border: 15px solid rgb(0, 0, 0);
+  border-radius: 50px;
+  padding: 50px;
+  margin: 0px;
+  text-align: center;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.btn {
+    background-color: #5bc7eb;
+    border-radius: 15px;
+    align-items: center;
+    border:2px solid  #003459;
+
+    
+}
+
+.btn :hover{
+    cursor: pointer;
+    background-image: linear-gradient(#400059,#bb00e1);
+
+}
+
+.article-title{
+    color: #00a7e1;
+}
+
+
+@media screen and (max-width: 600px) {
+    p {
+        display: inline-block;
+        width: 100%;
+        text-align: center;
+        text-align: center;
+        display: block;
+          margin-left: auto;
+          margin-right: auto;
+    
+      
+    }
+  }
